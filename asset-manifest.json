@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Trending-Hubb/static/css/main.78224c36.chunk.css",
-    "main.js": "/Trending-Hubb/static/js/main.b6d197d4.chunk.js",
-    "main.js.map": "/Trending-Hubb/static/js/main.b6d197d4.chunk.js.map",
+    "main.js": "/Trending-Hubb/static/js/main.10cba49b.chunk.js",
+    "main.js.map": "/Trending-Hubb/static/js/main.10cba49b.chunk.js.map",
     "runtime-main.js": "/Trending-Hubb/static/js/runtime-main.7cba2241.js",
     "runtime-main.js.map": "/Trending-Hubb/static/js/runtime-main.7cba2241.js.map",
     "static/css/2.1c69f026.chunk.css": "/Trending-Hubb/static/css/2.1c69f026.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.1c69f026.chunk.css",
     "static/js/2.fc4ba09f.chunk.js",
     "static/css/main.78224c36.chunk.css",
-    "static/js/main.b6d197d4.chunk.js"
+    "static/js/main.10cba49b.chunk.js"
   ]
 }
